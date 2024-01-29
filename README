@@ -1,0 +1,5 @@
+App with sign in provided by Firestore
+
+To run project, clone this repo and run project in android studio after building gradle.
+
+Documentation from https://developer.android.com/develop and https://firebase.google.com/docs/firestore/ is helpful
